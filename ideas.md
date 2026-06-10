@@ -1,7 +1,5 @@
-Idea's from the machine
-If you're finishing a master's in computational particle physics and want to strengthen an astronomy/astrophysics PhD application, the most valuable summer projects are those that demonstrate you can apply your computational and quantitative skills to astronomical datasets and astrophysical problems.
+Idea's from the machine:
 
-Admissions committees will generally view your particle physics background as a strength. The goal is not to start over in astronomy, but to build evidence that you understand astronomical data, methods, and scientific questions.
 Highest-impact project ideas
 1. Analyze real survey data (best overall choice)
 
@@ -149,14 +147,6 @@ Possible package ideas:
 
     Survey-data cross-matching tool
 
-Host it on GitHub with:
-
-    Documentation
-
-    Unit tests
-
-    Example notebooks
-
 A well-engineered software project can stand out significantly.
 What would impress PhD admissions most?
 
@@ -172,10 +162,7 @@ Roughly in order:
 
     A technically sophisticated personal project
 
-The strongest outcome is usually not "learning astronomy" broadly, but producing something that resembles actual research.
-Skills worth learning this summer
-
-If you don't already know them:
+Tools
 
     Python astronomy ecosystem:
 
@@ -196,24 +183,6 @@ If you don't already know them:
     HPC workflows
 
     Scientific visualization
-
-If you tell me:
-
-    your master's thesis topic,
-
-    whether you're more interested in cosmology, galaxies, stars, exoplanets, or instrumentation,
-
-    and how many weeks you have this summer,
-
-I can suggest a specific project that would look particularly strong on astronomy PhD applications.
-
-With only 4 weeks, your goal should be a project that is:
-
-Large enough to demonstrate research ability.
-Small enough to finish and write up.
-Closely connected to skills you already have from computational particle physics.
-
-A common mistake is trying to do a full cosmological simulation or a novel ML project in a month. Those often become unfinished.
 
 Best 4-week projects
 Option 1: Gaia stellar population analysis (strongest astronomy signal)
